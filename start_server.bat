@@ -6,7 +6,10 @@ echo ----
 
 
 cd /d %~dp0
+REM -- PULL FROM GITHUB
+git pull
 
+REM -- START A SERVER
 "%JAVA_HOME%\bin\java.exe" -Xms1G -Xmx4G -jar paper.jar nogui
 
 REM -- PUSH TO GITHUB AFTER CLOSE SERVER
