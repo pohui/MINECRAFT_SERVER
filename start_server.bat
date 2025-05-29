@@ -12,6 +12,6 @@ cd /d %~dp0
 REM -- PUSH TO GITHUB AFTER CLOSE SERVER
 git add -A
 git commit -m "Auto commit at %time%"
-git push origin main
+git push origin master
 
 pause
