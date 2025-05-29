@@ -1,1 +1,0 @@
-@echo off:: Set the working directory to the location of this batch filecd /d "%~dp0":: Loop to restart the server if it crashes:serverStartecho Starting Paper Minecraft Server...java.exe -Xms1G -Xmx4G -jar paper.jar noguiecho.echo Server stopped or crashed. Restarting in 5 seconds...timeout /t 5 /nobreak > nulgoto serverStart
