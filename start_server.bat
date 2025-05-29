@@ -9,4 +9,9 @@ cd /d %~dp0
 
 "%JAVA_HOME%\bin\java.exe" -Xms1G -Xmx4G -jar paper.jar nogui
 
+REM -- PUSH TO GITHUB AFTER CLOSE SERVER
+git add -A
+git commit -m "Auto commit at %time%"
+git push origin main
+
 pause
