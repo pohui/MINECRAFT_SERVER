@@ -1,0 +1,8 @@
+_java
+.fabric
+bluemap
+cache
+versions
+libraries
+logs
+*.lock
