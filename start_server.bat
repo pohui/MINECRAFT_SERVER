@@ -17,4 +17,4 @@ git add -A
 git commit -m "Auto commit at %time%"
 git push origin master
 
-pause
+timeout -t2
