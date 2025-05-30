@@ -7,14 +7,15 @@ echo ----
 
 cd /d %~dp0
 REM -- PULL FROM GITHUB
-git pull
+git fetch origin
+git reset --hard origin/master
 
 REM -- START A SERVER
-"%JAVA_HOME%\bin\java.exe" -Xms1G -Xmx4G -jar paper.jar nogui
+call server.bat
 
 REM -- PUSH TO GITHUB AFTER CLOSE SERVER
 git add -A
-git commit -m "Auto commit at %time%"
+git commit -m "Auto commit at %time% by %USERNAME%"
 git push origin master
 
 timeout -t2
