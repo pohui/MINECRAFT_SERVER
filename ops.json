@@ -4,5 +4,11 @@
     "name": "IjoZyet",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d221af0e-6f05-3a6b-bbe7-e239f4832fbb",
+    "name": "BigRaph",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
