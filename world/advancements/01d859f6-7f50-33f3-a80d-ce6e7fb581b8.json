@@ -515,6 +515,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-06-01 01:18:34 +0700",
+      "minecraft:pillager": "2025-06-02 00:56:06 +0700",
       "minecraft:skeleton": "2025-05-28 22:07:27 +0700",
       "minecraft:zombified_piglin": "2025-05-30 15:54:54 +0700",
       "minecraft:witch": "2025-05-31 02:47:20 +0700",
@@ -3585,6 +3586,12 @@
   "minecraft:husbandry/safely_harvest_honey": {
     "criteria": {
       "safely_harvest_honey": "2025-06-01 04:59:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-02 00:56:06 +0700"
     },
     "done": true
   },
