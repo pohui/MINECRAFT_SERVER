@@ -554,6 +554,7 @@
       "cooked_porkchop": "2025-05-29 20:19:47 +0700",
       "mutton": "2025-05-28 23:22:14 +0700",
       "bread": "2025-05-28 23:40:24 +0700",
+      "honey_bottle": "2025-06-01 04:59:35 +0700",
       "rotten_flesh": "2025-05-28 22:52:38 +0700",
       "suspicious_stew": "2025-05-30 21:35:45 +0700",
       "cooked_mutton": "2025-05-28 22:25:15 +0700",
@@ -2259,7 +2260,8 @@
       "minecraft:chicken": "2025-05-30 00:50:42 +0700",
       "minecraft:pig": "2025-05-29 20:12:48 +0700",
       "minecraft:turtle": "2025-05-31 05:54:14 +0700",
-      "minecraft:sheep": "2025-05-29 19:38:56 +0700"
+      "minecraft:sheep": "2025-05-29 19:38:56 +0700",
+      "minecraft:bee": "2025-06-01 04:58:27 +0700"
     },
     "done": false
   },
@@ -3361,38 +3363,23 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-06-01 00:52:03 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-06-01 00:28:29 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/comparator": {
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
-      "has_quartz": "2025-06-01 00:52:03 +0700"
+      "has_oxeye_daisy": "2025-06-01 00:28:29 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
     "criteria": {
-      "has_nether_bricks": "2025-06-01 01:16:46 +0700"
+      "has_oxeye_daisy": "2025-06-01 00:28:29 +0700"
     },
     "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-06-01 00:48:29 +0700",
-      "minecraft:nether_wastes": "2025-06-01 01:01:11 +0700",
-      "minecraft:soul_sand_valley": "2025-06-01 01:12:57 +0700",
-      "minecraft:warped_forest": "2025-06-01 01:20:22 +0700"
-    },
-    "done": false
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -3406,81 +3393,30 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_nether_bricks": "2025-06-01 01:16:46 +0700"
+      "minecraft:crimson_forest": "2025-06-01 00:48:29 +0700",
+      "minecraft:nether_wastes": "2025-06-01 01:01:11 +0700",
+      "minecraft:soul_sand_valley": "2025-06-01 01:12:57 +0700",
+      "minecraft:warped_forest": "2025-06-01 01:20:22 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-06-01 00:51:55 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+  "minecraft:recipes/redstone/observer": {
     "criteria": {
-      "has_nether_bricks": "2025-06-01 01:16:46 +0700"
+      "has_quartz": "2025-06-01 00:52:03 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
+  "minecraft:recipes/redstone/comparator": {
     "criteria": {
-      "has_soul_sand": "2025-06-01 01:13:32 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-01 01:16:46 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-06-01 01:18:56 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-01 01:16:46 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-01 01:16:46 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-06-01 00:54:01 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-01 01:16:46 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-06-01 00:28:29 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-06-01 01:13:32 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-01 01:16:46 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-06-01 01:13:04 +0700"
+      "has_quartz": "2025-06-01 00:52:03 +0700"
     },
     "done": true
   },
@@ -3496,39 +3432,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-06-01 01:18:56 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-06-01 00:54:01 +0700"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-06-01 01:18:02 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-06-01 00:28:29 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-06-01 00:52:03 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_fence": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-01 01:16:46 +0700"
     },
     "done": true
   },
@@ -3538,9 +3444,147 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "has_warped_fungus": "2025-06-01 00:51:55 +0700"
+      "has_glowstone_dust": "2025-06-01 00:54:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-01 00:54:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-01 01:13:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-01 01:13:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-01 01:13:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 01:16:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 01:16:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 01:16:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 01:16:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 01:16:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 01:16:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 01:16:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 01:16:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 01:16:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-01 01:18:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-06-01 01:18:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-06-01 01:18:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-06-01 03:41:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-06-01 03:41:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-06-01 03:42:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-06-01 03:42:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-06-01 03:42:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-06-01 03:42:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2025-06-01 04:59:31 +0700"
     },
     "done": true
   },
