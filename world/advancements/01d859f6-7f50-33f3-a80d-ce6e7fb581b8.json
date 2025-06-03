@@ -23,6 +23,7 @@
       "minecraft:sunflower_plains": "2025-05-28 23:13:04 +0700",
       "minecraft:birch_forest": "2025-06-03 17:46:05 +0700",
       "minecraft:old_growth_spruce_taiga": "2025-05-29 00:04:20 +0700",
+      "minecraft:snowy_beach": "2025-06-04 01:39:12 +0700",
       "minecraft:wooded_badlands": "2025-05-31 01:27:43 +0700",
       "minecraft:bamboo_jungle": "2025-06-03 03:33:24 +0700",
       "minecraft:warm_ocean": "2025-05-31 01:30:34 +0700",
@@ -32,11 +33,13 @@
       "minecraft:savanna_plateau": "2025-05-31 02:32:27 +0700",
       "minecraft:beach": "2025-05-28 23:34:03 +0700",
       "minecraft:stony_peaks": "2025-05-29 04:10:54 +0700",
+      "minecraft:dark_forest": "2025-06-04 01:59:50 +0700",
       "minecraft:mangrove_swamp": "2025-05-31 01:40:26 +0700",
       "minecraft:sparse_jungle": "2025-06-03 03:30:59 +0700",
       "minecraft:river": "2025-05-28 22:19:23 +0700",
       "minecraft:lukewarm_ocean": "2025-05-29 04:10:27 +0700",
       "minecraft:stony_shore": "2025-05-28 22:21:13 +0700",
+      "minecraft:snowy_plains": "2025-06-04 01:39:10 +0700",
       "minecraft:dripstone_caves": "2025-05-31 02:12:18 +0700",
       "minecraft:frozen_peaks": "2025-05-29 04:02:22 +0700",
       "minecraft:deep_dark": "2025-05-29 15:43:38 +0700",
@@ -3822,6 +3825,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-03 22:07:35 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-03 22:07:35 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-06-03 22:07:35 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-06-03 22:07:36 +0700"
@@ -3846,33 +3867,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-06-03 22:07:35 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-06-03 22:07:35 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-03 22:07:36 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-06-03 22:07:35 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-03 22:07:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-04 01:59:59 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-04 01:52:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-04 01:59:59 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-06-04 01:52:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-06-04 01:52:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-06-04 01:52:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-04 01:52:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-06-04 01:52:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-06-04 01:52:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-04 01:52:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-04 01:52:25 +0700"
     },
     "done": true
   },
