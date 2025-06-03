@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.154.1.200
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1748954917343
+  login: 1748951309900
+money: '0'
+last-account-name: VeLxze
+logoutlocation:
+  world: b2d476ee-15e8-428a-b87d-46f1ec13a167
+  world-name: world
+  x: 422.86569501916966
+  y: 75.0
+  z: -859.3389391066888
+  yaw: 108.60018157958984
+  pitch: 8.399991035461426

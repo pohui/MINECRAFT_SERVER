@@ -20,6 +20,7 @@
       "minecraft:jungle": "2025-05-30 02:21:20 +0700",
       "minecraft:cherry_grove": "2025-05-28 23:26:49 +0700",
       "minecraft:sunflower_plains": "2025-05-28 23:13:04 +0700",
+      "minecraft:birch_forest": "2025-06-03 17:46:05 +0700",
       "minecraft:old_growth_spruce_taiga": "2025-05-29 00:04:20 +0700",
       "minecraft:wooded_badlands": "2025-05-31 01:27:43 +0700",
       "minecraft:bamboo_jungle": "2025-06-03 03:33:24 +0700",
@@ -3616,18 +3617,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-06-03 03:23:40 +0700"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-06-03 04:31:08 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-02 23:11:52 +0700"
@@ -3646,12 +3635,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-06-03 05:13:33 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-02 23:11:52 +0700"
@@ -3661,30 +3644,6 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-02 23:11:52 +0700"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/wax_off": {
-    "criteria": {
-      "wax_off": "2025-06-03 05:02:42 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs": {
-    "criteria": {
-      "has_prismarine": "2025-06-03 03:23:40 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/prismarine_wall": {
-    "criteria": {
-      "has_prismarine": "2025-06-03 03:23:40 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-06-03 03:23:40 +0700"
     },
     "done": true
   },
@@ -3706,12 +3665,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/spyglass_at_parrot": {
-    "criteria": {
-      "spyglass_at_parrot": "2025-06-03 04:35:11 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-02 23:11:52 +0700"
@@ -3730,19 +3683,19 @@
     },
     "done": true
   },
-  "minecraft:husbandry/wax_on": {
-    "criteria": {
-      "wax_on": "2025-06-03 05:02:15 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab": {
-    "criteria": {
-      "has_prismarine": "2025-06-03 03:23:40 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-02 23:11:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-02 23:11:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-02 23:11:52 +0700"
     },
@@ -3754,15 +3707,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-03 03:23:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-06-03 03:23:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-06-03 03:23:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-03 03:23:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-06-03 03:23:40 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-06-03 03:23:40 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_glass_pane": "2025-06-02 23:11:52 +0700"
+      "deflected_projectile": "2025-06-03 04:31:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/spyglass_at_parrot": {
+    "criteria": {
+      "spyglass_at_parrot": "2025-06-03 04:35:11 +0700"
     },
     "done": true
   },
@@ -3772,9 +3761,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:husbandry/wax_on": {
     "criteria": {
-      "has_glass_pane": "2025-06-02 23:11:52 +0700"
+      "wax_on": "2025-06-03 05:02:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-06-03 05:02:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-03 05:13:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-03 15:59:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brown_bundle": {
+    "criteria": {
+      "has_brown_dye": "2025-06-03 15:59:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-03 15:59:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-06-03 15:59:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-03 15:59:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-03 17:42:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-03 17:42:29 +0700"
     },
     "done": true
   },
