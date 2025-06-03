@@ -2370,12 +2370,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-06-03 04:01:07 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-06-03 03:23:00 +0700"
@@ -2388,21 +2382,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_slab": {
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
-      "has_planks": "2025-06-03 05:13:57 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-06-03 05:13:53 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-03 05:13:57 +0700"
+      "has_kelp": "2025-06-03 03:23:00 +0700"
     },
     "done": true
   },
@@ -2412,63 +2394,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-03 04:01:07 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-06-03 03:23:00 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_sign": {
-    "criteria": {
-      "has_planks": "2025-06-03 05:13:57 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-03 05:13:57 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2025-06-03 05:13:53 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/bamboo_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-03 03:41:45 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_fence": {
-    "criteria": {
-      "has_planks": "2025-06-03 05:13:57 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-06-03 05:13:53 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-06-03 04:01:07 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-03 05:13:57 +0700"
     },
     "done": true
   },
@@ -2478,9 +2406,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
+  "minecraft:recipes/redstone/bamboo_button": {
     "criteria": {
-      "has_planks": "2025-06-03 05:13:53 +0700"
+      "has_planks": "2025-06-03 03:41:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-03 03:41:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-03 03:41:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2025-06-03 03:41:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-06-03 03:41:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2025-06-03 03:41:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-03 04:01:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-03 04:01:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-03 04:01:07 +0700"
     },
     "done": true
   },
@@ -2502,27 +2478,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-03 04:01:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-03 04:01:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-03 04:01:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-03 04:05:36 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2025-06-03 04:07:38 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2025-06-03 05:13:53 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-03 05:13:57 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_button": {
-    "criteria": {
-      "has_planks": "2025-06-03 05:13:57 +0700"
     },
     "done": true
   },
@@ -2532,21 +2514,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_fence_gate": {
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-06-03 04:19:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-03 05:03:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-06-03 05:13:53 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/bamboo_button": {
+  "minecraft:recipes/redstone/birch_door": {
     "criteria": {
-      "has_planks": "2025-06-03 03:41:45 +0700"
+      "has_planks": "2025-06-03 05:13:53 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/bamboo_fence_gate": {
+  "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
-      "has_planks": "2025-06-03 03:41:45 +0700"
+      "has_planks": "2025-06-03 05:13:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-03 05:13:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-06-03 05:13:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-03 05:13:53 +0700"
     },
     "done": true
   },
@@ -2562,9 +2574,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_stairs": {
+  "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
-      "has_planks": "2025-06-03 03:41:45 +0700"
+      "has_planks": "2025-06-03 05:13:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-06-03 05:13:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-03 05:13:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-06-03 05:13:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-03 05:13:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-06-03 05:13:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-03 05:13:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-03 05:13:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-06-03 05:13:57 +0700"
     },
     "done": true
   },
@@ -2574,63 +2634,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_fence": {
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
-      "has_planks": "2025-06-03 04:01:07 +0700"
+      "has_white_tulip": "2025-06-03 08:40:41 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/bamboo_sign": {
+  "minecraft:recipes/food/suspicious_stew_from_red_tulip": {
     "criteria": {
-      "has_planks": "2025-06-03 03:41:45 +0700"
+      "has_red_tulip": "2025-06-03 08:40:52 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "minecraft:recipes/food/suspicious_stew_from_orange_tulip": {
     "criteria": {
-      "has_planks": "2025-06-03 04:01:07 +0700"
+      "has_orange_tulip": "2025-06-03 08:40:48 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jack_o_lantern": {
+  "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
     "criteria": {
-      "has_carved_pumpkin": "2025-06-03 05:03:49 +0700"
+      "has_white_tulip": "2025-06-03 08:40:41 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
+  "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
-      "has_peony": "2025-06-03 04:19:50 +0700"
+      "has_red_flower": "2025-06-03 08:40:52 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_slab": {
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
-      "has_planks": "2025-06-03 04:01:07 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_door": {
-    "criteria": {
-      "has_planks": "2025-06-03 03:41:45 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/bamboo_fence": {
-    "criteria": {
-      "has_planks": "2025-06-03 03:41:45 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-06-03 04:05:36 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-03 05:13:53 +0700"
+      "has_orange_tulip": "2025-06-03 08:40:48 +0700"
     },
     "done": true
   },
