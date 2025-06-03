@@ -2640,9 +2640,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_red_tulip": {
+  "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
     "criteria": {
-      "has_red_tulip": "2025-06-03 08:40:52 +0700"
+      "has_white_tulip": "2025-06-03 08:40:41 +0700"
     },
     "done": true
   },
@@ -2652,21 +2652,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
-      "has_white_tulip": "2025-06-03 08:40:41 +0700"
+      "has_orange_tulip": "2025-06-03 08:40:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2025-06-03 08:40:52 +0700"
     },
     "done": true
   },
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2025-06-03 08:40:52 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
-    "criteria": {
-      "has_orange_tulip": "2025-06-03 08:40:48 +0700"
     },
     "done": true
   },

@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: ''
+ip-address: 26.188.106.164
 afk: false
 socialspy: false
 npc: false
@@ -16,14 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1748955075969
-  login: 0
-money: '0'
+  logout: 1748967275402
+  login: 1748960499272
+money: '600'
 logoutlocation:
   world: b2d476ee-15e8-428a-b87d-46f1ec13a167
   world-name: world
-  x: 364.23750001192093
+  x: 365.4509840740063
   y: 86.0
-  z: -907.9662105796866
-  yaw: -175.8068084716797
-  pitch: 16.800107955932617
+  z: -905.6388384464267
+  yaw: 86.10000610351562
+  pitch: 25.80010223388672
+last-account-name: RAFAEL
