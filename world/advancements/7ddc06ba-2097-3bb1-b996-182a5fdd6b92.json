@@ -497,6 +497,7 @@
       "minecraft:piglin": "2025-06-01 00:52:43 +0700",
       "minecraft:vindicator": "2025-06-01 01:50:04 +0700",
       "minecraft:enderman": "2025-05-31 01:30:21 +0700",
+      "minecraft:magma_cube": "2025-06-05 23:27:49 +0700",
       "minecraft:spider": "2025-05-28 22:49:55 +0700",
       "minecraft:zombie": "2025-05-28 22:44:13 +0700",
       "minecraft:creeper": "2025-05-31 02:30:54 +0700",
@@ -3160,6 +3161,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-06-05 16:40:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-05 23:28:49 +0700"
     },
     "done": true
   },

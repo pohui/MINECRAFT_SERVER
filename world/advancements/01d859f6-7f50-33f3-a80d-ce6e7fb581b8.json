@@ -527,6 +527,7 @@
       "minecraft:phantom": "2025-06-05 09:28:09 +0700",
       "minecraft:zombified_piglin": "2025-05-30 15:54:54 +0700",
       "minecraft:witch": "2025-05-31 02:47:20 +0700",
+      "minecraft:ravager": "2025-06-05 23:02:15 +0700",
       "minecraft:husk": "2025-05-31 01:32:38 +0700",
       "minecraft:hoglin": "2025-06-02 12:45:18 +0700",
       "minecraft:cave_spider": "2025-05-28 22:52:05 +0700",
@@ -3947,6 +3948,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_bulb_from_honeycomb": {
+    "criteria": {
+      "has_exposed_copper_bulb": "2025-06-05 01:56:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-06-05 02:29:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_bulb_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_bulb": "2025-06-05 03:32:13 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_exposed_chiseled_copper_from_honeycomb": {
     "criteria": {
       "has_exposed_chiseled_copper": "2025-06-05 03:43:19 +0700"
@@ -3959,21 +3978,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "has_cobbled_deepslate_slab": "2025-06-05 02:29:41 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_exposed_copper_bulb_from_honeycomb": {
-    "criteria": {
-      "has_exposed_copper_bulb": "2025-06-05 01:56:24 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_bulb_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_copper_bulb": "2025-06-05 03:32:13 +0700"
+      "hero_of_the_village": "2025-06-05 23:04:03 +0700"
     },
     "done": true
   },

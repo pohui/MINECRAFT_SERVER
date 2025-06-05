@@ -16,23 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749090499889
-  login: 1749060750275
-money: '3300'
+  logout: 1749142700088
+  login: 1749142300905
+money: '600'
+last-account-name: RAFAEL
 logoutlocation:
   world: b2d476ee-15e8-428a-b87d-46f1ec13a167
   world-name: world
-  x: 378.69999998807907
-  y: 78.0
-  z: -798.1207787622885
-  yaw: -41.99683380126953
-  pitch: -7.650051116943359
-last-account-name: RAFAEL
-mail:
-- legacy: false
-  read: false
-  message: '!!HELLO!!'
-  sender-name: IjoZyet
-  sender-uuid: 7ddc06ba-2097-3bb1-b996-182a5fdd6b92
-  timestamp: 1749118338602
-  expire: 0
+  x: 188.71403042756998
+  y: 140.0
+  z: -190.3616021877557
+  yaw: -61.198883056640625
+  pitch: 7.650041103363037

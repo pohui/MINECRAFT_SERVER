@@ -16,23 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749079698239
-  login: 1749052989335
-money: '1500'
+  logout: 1749142705270
+  login: 1749140773294
+money: '0'
 last-account-name: BemMeb
 logoutlocation:
   world: b2d476ee-15e8-428a-b87d-46f1ec13a167
   world-name: world
-  x: -37.67927999182102
-  y: 64.5625
-  z: -402.2888442990032
-  yaw: 175.49151611328125
-  pitch: 16.125200271606445
-mail:
-- legacy: false
-  read: false
-  message: '!!HELLO!!'
-  sender-name: IjoZyet
-  sender-uuid: 7ddc06ba-2097-3bb1-b996-182a5fdd6b92
-  timestamp: 1749118338649
-  expire: 0
+  x: -42.87455190589063
+  y: 64.0
+  z: -401.6528638307179
+  yaw: 162.46287536621094
+  pitch: 17.174903869628906

@@ -11,36 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1748946351926
+  lastteleport: 1749139336649
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749136216516
-  login: 1749135678724
-money: '1500'
-last-account-name: BigRaph
+  logout: 1749142705290
+  login: 1749142283820
+money: '0'
 lastlocation:
   world: b2d476ee-15e8-428a-b87d-46f1ec13a167
   world-name: world
-  x: 874.1706092522103
-  y: 63.0
-  z: -872.7582278253458
-  yaw: 7.649888038635254
-  pitch: 15.000024795532227
+  x: 20.043522360127394
+  y: 76.74444592370384
+  z: -468.076185777848
+  yaw: -139.34136962890625
+  pitch: 7.124964237213135
+last-account-name: BigRaph
 logoutlocation:
   world: b2d476ee-15e8-428a-b87d-46f1ec13a167
   world-name: world
-  x: 324.655306627731
-  y: 95.5
-  z: -449.5820320115342
-  yaw: 13.832916259765625
-  pitch: 28.649728775024414
-mail:
-- legacy: false
-  read: false
-  message: '!!HELLO!!'
-  sender-name: IjoZyet
-  sender-uuid: 7ddc06ba-2097-3bb1-b996-182a5fdd6b92
-  timestamp: 1749118338637
-  expire: 0
+  x: 366.78835171257424
+  y: 81.0
+  z: -908.058756868524
+  yaw: -143.39773559570312
+  pitch: 13.799952507019043
