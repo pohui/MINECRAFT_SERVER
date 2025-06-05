@@ -16,4 +16,3 @@ git commit -m "Auto commit at %time% by %USERNAME%"
 git push origin master
 
 timeout -t2
-pause
