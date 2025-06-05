@@ -524,6 +524,7 @@
       "minecraft:blaze": "2025-06-01 01:18:34 +0700",
       "minecraft:pillager": "2025-06-02 00:56:06 +0700",
       "minecraft:skeleton": "2025-05-28 22:07:27 +0700",
+      "minecraft:phantom": "2025-06-05 09:28:09 +0700",
       "minecraft:zombified_piglin": "2025-05-30 15:54:54 +0700",
       "minecraft:witch": "2025-05-31 02:47:20 +0700",
       "minecraft:husk": "2025-05-31 01:32:38 +0700",
@@ -571,6 +572,7 @@
       "sweet_berries": "2025-05-30 05:06:04 +0700",
       "dried_kelp": "2025-05-30 00:01:07 +0700",
       "cooked_beef": "2025-05-29 15:06:39 +0700",
+      "baked_potato": "2025-06-05 02:41:49 +0700",
       "melon_slice": "2025-05-30 19:16:10 +0700",
       "beetroot": "2025-05-29 22:08:54 +0700",
       "apple": "2025-05-28 22:09:19 +0700",
@@ -3879,21 +3881,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-06-04 01:59:59 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-04 01:52:25 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-06-04 01:59:59 +0700"
     },
     "done": true
   },
@@ -3942,6 +3932,48 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-04 01:52:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-04 01:59:59 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-04 01:59:59 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_chiseled_copper_from_honeycomb": {
+    "criteria": {
+      "has_exposed_chiseled_copper": "2025-06-05 03:43:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_exposed_cut_copper_stairs": "2025-06-05 06:21:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-06-05 02:29:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_bulb_from_honeycomb": {
+    "criteria": {
+      "has_exposed_copper_bulb": "2025-06-05 01:56:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_bulb_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_bulb": "2025-06-05 03:32:13 +0700"
     },
     "done": true
   },
