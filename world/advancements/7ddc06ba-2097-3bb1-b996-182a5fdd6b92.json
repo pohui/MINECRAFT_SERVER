@@ -3157,5 +3157,11 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-05 16:40:39 +0700"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }

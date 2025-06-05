@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749115394615
-  login: 1749115330482
+  logout: 1749118409493
+  login: 1749118348980
 money: '4500'
 lastlocation:
   world: b2d476ee-15e8-428a-b87d-46f1ec13a167
@@ -30,9 +30,17 @@ lastlocation:
 logoutlocation:
   world: b2d476ee-15e8-428a-b87d-46f1ec13a167
   world-name: world
-  x: 376.40149638277126
-  y: 78.5
-  z: -695.803357972073
-  yaw: -102.28287506103516
-  pitch: 82.05001831054688
+  x: 386.43234406371243
+  y: 94.0
+  z: -528.9740616352806
+  yaw: 87.75054931640625
+  pitch: 90.0
 last-account-name: IjoZyet
+mail:
+- legacy: false
+  read: true
+  message: '!!HELLO!!'
+  sender-name: IjoZyet
+  sender-uuid: 7ddc06ba-2097-3bb1-b996-182a5fdd6b92
+  timestamp: 1749118338607
+  expire: 0
