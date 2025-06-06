@@ -34,11 +34,6 @@ world:
     pitch: 0.0
     yaw: 0.0
   spawning:
-    ambient:
-      spawn: true
-      tick-rate: -1
-      spawn-limit: -1
-      exceptions: []
     misc:
       spawn: true
       tick-rate: -1
@@ -49,12 +44,17 @@ world:
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
+    animal:
+      spawn: true
+      tick-rate: -1
+      spawn-limit: -1
+      exceptions: []
     monster:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
-    animal:
+    ambient:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
