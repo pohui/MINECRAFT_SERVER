@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749144694588
-  login: 1749142853626
+  logout: 1749239219304
+  login: 1749230356772
 money: '0'
 lastlocation:
   world: b2d476ee-15e8-428a-b87d-46f1ec13a167
@@ -31,8 +31,8 @@ last-account-name: BigRaph
 logoutlocation:
   world: b2d476ee-15e8-428a-b87d-46f1ec13a167
   world-name: world
-  x: 343.69999998807907
-  y: 97.0
-  z: -490.6279603467075
-  yaw: 55.650238037109375
-  pitch: 24.14991569519043
+  x: 336.4695882904834
+  y: 94.0
+  z: -522.2722068132327
+  yaw: -150.64404296875
+  pitch: 0.750438928604126

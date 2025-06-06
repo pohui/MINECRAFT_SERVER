@@ -16,6 +16,7 @@
       "minecraft:ocean": "2025-05-31 01:23:38 +0700",
       "minecraft:jungle": "2025-05-31 01:28:02 +0700",
       "minecraft:sunflower_plains": "2025-05-29 21:39:25 +0700",
+      "minecraft:cherry_grove": "2025-06-07 01:36:38 +0700",
       "minecraft:old_growth_spruce_taiga": "2025-06-01 04:42:42 +0700",
       "minecraft:wooded_badlands": "2025-05-31 01:28:04 +0700",
       "minecraft:warm_ocean": "2025-05-31 01:31:23 +0700",
@@ -237,6 +238,7 @@
       "potato": "2025-05-30 18:44:48 +0700",
       "sweet_berries": "2025-05-31 00:37:24 +0700",
       "dried_kelp": "2025-06-02 20:48:04 +0700",
+      "cooked_beef": "2025-06-07 00:47:17 +0700",
       "baked_potato": "2025-05-30 18:44:52 +0700",
       "melon_slice": "2025-05-29 21:48:02 +0700",
       "carrot": "2025-05-29 21:25:49 +0700"
@@ -260,6 +262,7 @@
       "minecraft:pillager": "2025-05-29 21:14:36 +0700",
       "minecraft:blaze": "2025-06-05 23:48:16 +0700",
       "minecraft:skeleton": "2025-05-31 01:21:46 +0700",
+      "minecraft:phantom": "2025-06-07 01:48:29 +0700",
       "minecraft:zombified_piglin": "2025-06-01 00:57:30 +0700",
       "minecraft:witch": "2025-06-05 22:45:53 +0700",
       "minecraft:ravager": "2025-06-05 23:04:00 +0700",
@@ -268,8 +271,10 @@
       "minecraft:vindicator": "2025-06-01 01:53:04 +0700",
       "minecraft:enderman": "2025-05-28 22:23:43 +0700",
       "minecraft:spider": "2025-05-30 18:36:28 +0700",
+      "minecraft:vex": "2025-06-07 01:46:07 +0700",
       "minecraft:zombie": "2025-05-29 23:41:07 +0700",
-      "minecraft:creeper": "2025-05-29 22:25:54 +0700"
+      "minecraft:creeper": "2025-05-29 22:25:54 +0700",
+      "minecraft:evoker": "2025-06-07 01:45:20 +0700"
     },
     "done": false
   },
@@ -1069,7 +1074,8 @@
     "criteria": {
       "minecraft:chicken": "2025-05-29 22:54:13 +0700",
       "minecraft:pig": "2025-05-29 22:56:23 +0700",
-      "minecraft:turtle": "2025-06-01 04:44:45 +0700"
+      "minecraft:turtle": "2025-06-01 04:44:45 +0700",
+      "minecraft:bee": "2025-06-07 02:25:25 +0700"
     },
     "done": false
   },
@@ -2576,6 +2582,138 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-06-05 23:49:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-07 00:22:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-07 00:22:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-07 00:22:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_the_recipe": "2025-06-07 00:23:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-07 00:30:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-06-07 00:36:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-07 00:36:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-06-07 00:36:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-07 00:37:35 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-07 00:37:35 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-07 00:43:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-06-07 00:51:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-07 01:02:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-06-07 01:36:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-07 01:53:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-07 01:53:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-07 01:53:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper_slab": "2025-06-07 02:05:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_copper": {
+    "criteria": {
+      "has_cut_copper_slab": "2025-06-07 02:05:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-07 02:19:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-07 02:19:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-07 02:20:13 +0700"
     },
     "done": true
   },
