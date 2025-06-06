@@ -11,20 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1749151818107
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749144721391
-  login: 1749142842003
+  logout: 1749178524555
+  login: 1749178372683
 money: '300'
 last-account-name: IjoZyet
 logoutlocation:
   world: b2d476ee-15e8-428a-b87d-46f1ec13a167
   world-name: world
-  x: 326.1835258108007
-  y: 95.5
-  z: -501.1178138509169
-  yaw: -38.5635986328125
-  pitch: 29.10000991821289
+  x: 427.73826070595055
+  y: 72.0
+  z: -855.9635555233425
+  yaw: 172.5501708984375
+  pitch: 39.45001983642578
+lastlocation:
+  world: b2d476ee-15e8-428a-b87d-46f1ec13a167
+  world-name: world
+  x: 335.5265658878178
+  y: 113.0
+  z: -854.8096130400779
+  yaw: 177.15576171875
+  pitch: 26.85000991821289

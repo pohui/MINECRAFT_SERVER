@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749144721380
-  login: 1749142839658
+  logout: 1749173861900
+  login: 1749144943397
 money: '600'
 last-account-name: RAFAEL
 logoutlocation:
   world: b2d476ee-15e8-428a-b87d-46f1ec13a167
   world-name: world
-  x: 361.45134577712395
-  y: 92.0
-  z: -829.3821695533024
-  yaw: 148.643310546875
-  pitch: 34.19995880126953
+  x: 366.972166116102
+  y: 86.0
+  z: -899.4687777056733
+  yaw: -51.45051193237305
+  pitch: 14.400001525878906

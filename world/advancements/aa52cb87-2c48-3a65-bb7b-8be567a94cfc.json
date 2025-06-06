@@ -13,10 +13,12 @@
       "minecraft:beach": "2025-06-02 02:05:29 +0700",
       "minecraft:forest": "2025-05-28 22:23:08 +0700",
       "minecraft:sparse_jungle": "2025-06-03 03:30:59 +0700",
+      "minecraft:deep_ocean": "2025-06-06 09:44:55 +0700",
       "minecraft:river": "2025-06-02 02:05:11 +0700",
       "minecraft:lukewarm_ocean": "2025-06-03 03:29:51 +0700",
       "minecraft:stony_shore": "2025-05-29 15:51:58 +0700",
       "minecraft:dripstone_caves": "2025-05-29 04:04:27 +0700",
+      "minecraft:old_growth_birch_forest": "2025-06-06 02:31:13 +0700",
       "minecraft:ocean": "2025-05-29 15:53:31 +0700",
       "minecraft:jungle": "2025-06-03 03:47:33 +0700",
       "minecraft:sunflower_plains": "2025-05-28 23:26:13 +0700",
@@ -292,6 +294,7 @@
       "minecraft:blaze": "2025-06-01 01:26:09 +0700",
       "minecraft:skeleton": "2025-05-28 23:28:48 +0700",
       "minecraft:phantom": "2025-05-30 16:17:49 +0700",
+      "minecraft:zombified_piglin": "2025-06-06 01:45:53 +0700",
       "minecraft:wither_skeleton": "2025-06-01 01:27:47 +0700",
       "minecraft:hoglin": "2025-06-01 01:08:53 +0700",
       "minecraft:cave_spider": "2025-05-28 22:58:19 +0700",
@@ -1123,7 +1126,8 @@
       "minecraft:pig": "2025-05-29 23:02:52 +0700",
       "minecraft:wolf": "2025-06-03 03:53:56 +0700",
       "minecraft:turtle": "2025-06-04 22:41:12 +0700",
-      "minecraft:sheep": "2025-05-29 04:55:46 +0700"
+      "minecraft:sheep": "2025-05-29 04:55:46 +0700",
+      "minecraft:axolotl": "2025-06-06 09:54:42 +0700"
     },
     "done": false
   },
@@ -2753,14 +2757,130 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "minecraft:tabby": "2025-06-06 09:33:07 +0700",
       "minecraft:siamese": "2025-06-05 09:47:35 +0700",
-      "minecraft:jellie": "2025-06-05 09:42:27 +0700"
+      "minecraft:jellie": "2025-06-05 09:42:27 +0700",
+      "minecraft:ragdoll": "2025-06-06 02:05:32 +0700"
     },
     "done": false
   },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-06-05 23:04:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-06 01:57:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-06-06 02:15:59 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-06-06 02:18:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-06 02:31:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-06 09:46:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-06 09:46:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 10:02:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-06 09:46:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-06 09:38:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2025-06-06 09:46:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 10:02:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-06 09:38:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 10:02:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-06 09:46:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-06-06 09:56:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 10:02:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-06 09:46:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 10:02:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 10:02:55 +0700"
     },
     "done": true
   },

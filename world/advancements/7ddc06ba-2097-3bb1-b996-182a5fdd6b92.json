@@ -489,6 +489,7 @@
       "minecraft:pillager": "2025-05-28 23:24:04 +0700",
       "minecraft:blaze": "2025-06-01 01:20:22 +0700",
       "minecraft:skeleton": "2025-05-28 22:42:25 +0700",
+      "minecraft:zombified_piglin": "2025-06-06 01:45:50 +0700",
       "minecraft:witch": "2025-05-30 04:51:55 +0700",
       "minecraft:wither_skeleton": "2025-06-01 01:25:13 +0700",
       "minecraft:ravager": "2025-06-03 17:41:49 +0700",
@@ -3167,6 +3168,12 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-06-05 23:28:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-06-06 02:16:05 +0700"
     },
     "done": true
   },

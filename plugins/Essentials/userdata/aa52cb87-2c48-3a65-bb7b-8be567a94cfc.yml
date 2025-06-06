@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 10.154.1.200
+ip-address: 127.0.0.1
 afk: false
 socialspy: false
 npc: false
@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749144721409
-  login: 1749143277972
-money: '900'
+  logout: 1749180096513
+  login: 1749176600671
+money: '1200'
 last-account-name: Kcin404
 logoutlocation:
   world: b2d476ee-15e8-428a-b87d-46f1ec13a167
   world-name: world
-  x: 375.23750001192093
-  y: 95.0
-  z: -501.0011899425135
-  yaw: -117.75286865234375
-  pitch: 0.7500230073928833
+  x: 370.485325799879
+  y: 94.0
+  z: -506.69774940705867
+  yaw: 50.550018310546875
+  pitch: 33.749881744384766
 mail:
 - legacy: false
   read: false
